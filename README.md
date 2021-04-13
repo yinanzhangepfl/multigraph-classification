@@ -17,7 +17,7 @@ scikit-learn              0.22.2
 scipy                     1.4.1  
 seaborn                   0.10.0  
 tqdm                      4.43.0  
-[Especially, please install Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
+Especially, please install [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html) as well.
 
 
 ## License
