@@ -7,16 +7,16 @@ This code is developed for the paper "Learning to Represent Whole Slide Images b
 ![](img/pipeline.png)
 
 ## Requirements
-ipywidgets                7.5.1 
-matplotlib                3.1.3
-networkx                  2.4
-numpy                     1.18.1
-pandas                    1.0.1
-pytorch                   1.4.0 
-scikit-learn              0.22.2
-scipy                     1.4.1
-seaborn                   0.10.0
-tqdm                      4.43.0
+ipywidgets                7.5.1  
+matplotlib                3.1.3  
+networkx                  2.4  
+numpy                     1.18.1  
+pandas                    1.0.1  
+pytorch                   1.4.0   
+scikit-learn              0.22.2  
+scipy                     1.4.1  
+seaborn                   0.10.0  
+tqdm                      4.43.0  
 Especially, please install Pytorch Geometric [https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html] as well
 
 
