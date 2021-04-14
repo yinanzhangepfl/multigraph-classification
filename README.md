@@ -36,7 +36,7 @@ Especially, please install [Pytorch Geometric](https://pytorch-geometric.readthe
 ## Result
 We  experimented with different aggregators, different architectures and soft and hard selection of patches, and the best performance is obtained with element-wise mean aggregator and soft selection mechanism. The confusion matrix below corresponding to the average of 100 realizations of sampling 2 graphs for 10 patients. The corresponding percentage of selecting both ground truth discriminative patches correctly, selecting one out of two patches correctly and not being able to select any right patches correctly are 49.1%, 50.8% and 0.1%, respectively.
 
-<img src=img/max-soft-mean.png width="400" height="400">
+<img src=img/max-soft-mean.png width="400" height="350">
 
 ## License
 This project is licensed under the MIT License.
