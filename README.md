@@ -28,7 +28,7 @@ Especially, please install [Pytorch Geometric](https://pytorch-geometric.readthe
 
 # 3. Assess pretraining results using Plot-results-pretrain.ipynb.
 
-# 4. Load pre-trained parameters and jointly learn graph embedding and selection using PatientClassifcation-joint.ipynb.  
+# 4. Load pre-trained parameters and jointly learn graph embedding and selection using PatientClassifcation-joint.ipynb. Note that you should choose a directory to save model parameters at different epochs.
 
 # 5. Assess classifcation and selection performance using Plot-results-joint.ipynb.
 ```
