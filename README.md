@@ -19,6 +19,20 @@ seaborn                   0.10.0
 tqdm                      4.43.0  
 Especially, please install [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html) as well.
 
+## Usage
+
+'''
+# 1. Create training / validation / test dataset using Data-Generation.ipynb using a fixed random seed 123 / 124 / 125 respectively.  
+
+# 2. Pre-trained the graph embedding module and the classification layer using PatientClassifcation-pretrain.ipynb.
+
+# 3. Assess pretraining results using Plot-results-pretrain.ipynb.
+
+# 4. Load pre-trained parameters and jointly learn graph embedding and selection using PatientClassifcation-joint.ipynb.  
+
+# 5. Assess classifcation and selection performance using Plot-results-joint.ipynb.
+
+'''
 
 ## License
 This project is licensed under the MIT License.
